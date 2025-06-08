@@ -1,0 +1,75 @@
+{
+    "start_date": "2025-06-08",
+    "end_date": "2025-08-15",
+    "weekly_plan": {
+        "Monday": [
+            "Cafeina",
+            "Ejercicio Fuerza",
+            "Cardio",
+            "Omega3",
+            "Vitaminas",
+            "Magnesio"
+        ],
+        "Tuesday": [
+            "Cardio",
+            "Omega3",
+            "Vitaminas",
+            "Magnesio"
+        ],
+        "Wednesday": [
+            "Cafeina",
+            "Ejercicio Fuerza",
+            "Cardio",
+            "Omega3",
+            "Vitaminas",
+            "Magnesio"
+        ],
+        "Thursday": [
+            "Cardio",
+            "Omega3",
+            "Vitaminas",
+            "Magnesio"
+        ],
+        "Friday": [
+            "Cafeina",
+            "Ejercicio Fuerza",
+            "Cardio",
+            "Omega3",
+            "Vitaminas",
+            "Magnesio"
+        ],
+        "Saturday": [
+            "Cafeina",
+            "Ejercicio Fuerza",
+            "Cardio",
+            "Omega3",
+            "Vitaminas",
+            "Magnesio"
+        ],
+        "Sunday": [
+            "Cardio",
+            "Omega3",
+            "Vitaminas",
+            "Magnesio"
+        ]
+    },
+    "records": {
+        "2025-06-09": [
+            "Cafeina",
+            "Ejercicio Fuerza",
+            "Cardio",
+            "Omega3",
+            "Vitaminas"
+        ],
+        "2025-06-08": [
+            "Cardio",
+            "Omega3"
+        ],
+        "2025-06-13": [
+            "Cafeina",
+            "Cardio",
+            "Vitaminas",
+            "Magnesio"
+        ]
+    }
+}
